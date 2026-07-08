@@ -60,5 +60,5 @@ M.Sc. Mobile Sensing & Robotics · Universität Bonn.
 Previously at Procter & Gamble (computer vision pipelines on manufacturing lines)
 and DHL Consulting (marketing analytics and data pipelines).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulie%20Yap-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulieyap)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulie%20Yap-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulie-yap-183289186/)
 [![GitHub](https://img.shields.io/badge/GitHub-paulieyap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulieyap)
